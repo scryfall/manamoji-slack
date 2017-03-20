@@ -10,8 +10,8 @@ These symbols are designed for use with [Scryfall’s Slack bot](https://scryfal
 
 1. [Download this project as a ZIP file](https://github.com/scryfall/manamoji-slack/archive/master.zip)
 2. [Upload each of the emoji](https://get.slack.help/hc/en-us/articles/206870177-Create-custom-emoji) images to your Slack team. 
-  - 👉 **Important:** You must name the emoji you create the same as their image file name. For example, the green mana symbol in `mana-g.png` must become and emoji named `:mana-g:`. Scryfall’s Slack bot will detect emojis with this name style.
-3. Done!
+3. 👉 **Important:** You must name the emoji you create the same as their image file name. For example, the green mana symbol in `mana-g.png` must become and emoji named `:mana-g:`. Scryfall’s Slack bot will detect emojis with this name style.
+4. Done!
 
 ### License
 
