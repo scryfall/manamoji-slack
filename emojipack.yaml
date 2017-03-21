@@ -1,0 +1,132 @@
+title: manamoji
+emojis:
+  - name: mana-0
+    src: https://raw.githubusercontent.com/scryfall/manamoji-slack/master/emojis/mana-0.png
+  - name: mana-1
+    src: https://raw.githubusercontent.com/scryfall/manamoji-slack/master/emojis/mana-1.png
+  - name: mana-10
+    src: https://raw.githubusercontent.com/scryfall/manamoji-slack/master/emojis/mana-10.png
+  - name: mana-100-1
+    src: https://raw.githubusercontent.com/scryfall/manamoji-slack/master/emojis/mana-100-1.png
+  - name: mana-100-2
+    src: https://raw.githubusercontent.com/scryfall/manamoji-slack/master/emojis/mana-100-2.png
+  - name: mana-1000000-1
+    src: https://raw.githubusercontent.com/scryfall/manamoji-slack/master/emojis/mana-1000000-1.png
+  - name: mana-1000000-2
+    src: https://raw.githubusercontent.com/scryfall/manamoji-slack/master/emojis/mana-1000000-2.png
+  - name: mana-1000000-3
+    src: https://raw.githubusercontent.com/scryfall/manamoji-slack/master/emojis/mana-1000000-3.png
+  - name: mana-1000000-4
+    src: https://raw.githubusercontent.com/scryfall/manamoji-slack/master/emojis/mana-1000000-4.png
+  - name: mana-11
+    src: https://raw.githubusercontent.com/scryfall/manamoji-slack/master/emojis/mana-11.png
+  - name: mana-12
+    src: https://raw.githubusercontent.com/scryfall/manamoji-slack/master/emojis/mana-12.png
+  - name: mana-13
+    src: https://raw.githubusercontent.com/scryfall/manamoji-slack/master/emojis/mana-13.png
+  - name: mana-14
+    src: https://raw.githubusercontent.com/scryfall/manamoji-slack/master/emojis/mana-14.png
+  - name: mana-15
+    src: https://raw.githubusercontent.com/scryfall/manamoji-slack/master/emojis/mana-15.png
+  - name: mana-16
+    src: https://raw.githubusercontent.com/scryfall/manamoji-slack/master/emojis/mana-16.png
+  - name: mana-17
+    src: https://raw.githubusercontent.com/scryfall/manamoji-slack/master/emojis/mana-17.png
+  - name: mana-18
+    src: https://raw.githubusercontent.com/scryfall/manamoji-slack/master/emojis/mana-18.png
+  - name: mana-19
+    src: https://raw.githubusercontent.com/scryfall/manamoji-slack/master/emojis/mana-19.png
+  - name: mana-2
+    src: https://raw.githubusercontent.com/scryfall/manamoji-slack/master/emojis/mana-2.png
+  - name: mana-20
+    src: https://raw.githubusercontent.com/scryfall/manamoji-slack/master/emojis/mana-20.png
+  - name: mana-2b
+    src: https://raw.githubusercontent.com/scryfall/manamoji-slack/master/emojis/mana-2b.png
+  - name: mana-2g
+    src: https://raw.githubusercontent.com/scryfall/manamoji-slack/master/emojis/mana-2g.png
+  - name: mana-2r
+    src: https://raw.githubusercontent.com/scryfall/manamoji-slack/master/emojis/mana-2r.png
+  - name: mana-2u
+    src: https://raw.githubusercontent.com/scryfall/manamoji-slack/master/emojis/mana-2u.png
+  - name: mana-2w
+    src: https://raw.githubusercontent.com/scryfall/manamoji-slack/master/emojis/mana-2w.png
+  - name: mana-3
+    src: https://raw.githubusercontent.com/scryfall/manamoji-slack/master/emojis/mana-3.png
+  - name: mana-4
+    src: https://raw.githubusercontent.com/scryfall/manamoji-slack/master/emojis/mana-4.png
+  - name: mana-5
+    src: https://raw.githubusercontent.com/scryfall/manamoji-slack/master/emojis/mana-5.png
+  - name: mana-6
+    src: https://raw.githubusercontent.com/scryfall/manamoji-slack/master/emojis/mana-6.png
+  - name: mana-7
+    src: https://raw.githubusercontent.com/scryfall/manamoji-slack/master/emojis/mana-7.png
+  - name: mana-8
+    src: https://raw.githubusercontent.com/scryfall/manamoji-slack/master/emojis/mana-8.png
+  - name: mana-9
+    src: https://raw.githubusercontent.com/scryfall/manamoji-slack/master/emojis/mana-9.png
+  - name: mana-b
+    src: https://raw.githubusercontent.com/scryfall/manamoji-slack/master/emojis/mana-b.png
+  - name: mana-bg
+    src: https://raw.githubusercontent.com/scryfall/manamoji-slack/master/emojis/mana-bg.png
+  - name: mana-bp
+    src: https://raw.githubusercontent.com/scryfall/manamoji-slack/master/emojis/mana-bp.png
+  - name: mana-br
+    src: https://raw.githubusercontent.com/scryfall/manamoji-slack/master/emojis/mana-br.png
+  - name: mana-c
+    src: https://raw.githubusercontent.com/scryfall/manamoji-slack/master/emojis/mana-c.png
+  - name: mana-chaos
+    src: https://raw.githubusercontent.com/scryfall/manamoji-slack/master/emojis/mana-chaos.png
+  - name: mana-e
+    src: https://raw.githubusercontent.com/scryfall/manamoji-slack/master/emojis/mana-e.png
+  - name: mana-g
+    src: https://raw.githubusercontent.com/scryfall/manamoji-slack/master/emojis/mana-g.png
+  - name: mana-gp
+    src: https://raw.githubusercontent.com/scryfall/manamoji-slack/master/emojis/mana-gp.png
+  - name: mana-gu
+    src: https://raw.githubusercontent.com/scryfall/manamoji-slack/master/emojis/mana-gu.png
+  - name: mana-gw
+    src: https://raw.githubusercontent.com/scryfall/manamoji-slack/master/emojis/mana-gw.png
+  - name: mana-half
+    src: https://raw.githubusercontent.com/scryfall/manamoji-slack/master/emojis/mana-half.png
+  - name: mana-hr
+    src: https://raw.githubusercontent.com/scryfall/manamoji-slack/master/emojis/mana-hr.png
+  - name: mana-hw
+    src: https://raw.githubusercontent.com/scryfall/manamoji-slack/master/emojis/mana-hw.png
+  - name: mana-infinity
+    src: https://raw.githubusercontent.com/scryfall/manamoji-slack/master/emojis/mana-infinity.png
+  - name: mana-q
+    src: https://raw.githubusercontent.com/scryfall/manamoji-slack/master/emojis/mana-q.png
+  - name: mana-r
+    src: https://raw.githubusercontent.com/scryfall/manamoji-slack/master/emojis/mana-r.png
+  - name: mana-rg
+    src: https://raw.githubusercontent.com/scryfall/manamoji-slack/master/emojis/mana-rg.png
+  - name: mana-rp
+    src: https://raw.githubusercontent.com/scryfall/manamoji-slack/master/emojis/mana-rp.png
+  - name: mana-rw
+    src: https://raw.githubusercontent.com/scryfall/manamoji-slack/master/emojis/mana-rw.png
+  - name: mana-s
+    src: https://raw.githubusercontent.com/scryfall/manamoji-slack/master/emojis/mana-s.png
+  - name: mana-t
+    src: https://raw.githubusercontent.com/scryfall/manamoji-slack/master/emojis/mana-t.png
+  - name: mana-u
+    src: https://raw.githubusercontent.com/scryfall/manamoji-slack/master/emojis/mana-u.png
+  - name: mana-ub
+    src: https://raw.githubusercontent.com/scryfall/manamoji-slack/master/emojis/mana-ub.png
+  - name: mana-up
+    src: https://raw.githubusercontent.com/scryfall/manamoji-slack/master/emojis/mana-up.png
+  - name: mana-ur
+    src: https://raw.githubusercontent.com/scryfall/manamoji-slack/master/emojis/mana-ur.png
+  - name: mana-w
+    src: https://raw.githubusercontent.com/scryfall/manamoji-slack/master/emojis/mana-w.png
+  - name: mana-wb
+    src: https://raw.githubusercontent.com/scryfall/manamoji-slack/master/emojis/mana-wb.png
+  - name: mana-wp
+    src: https://raw.githubusercontent.com/scryfall/manamoji-slack/master/emojis/mana-wp.png
+  - name: mana-wu
+    src: https://raw.githubusercontent.com/scryfall/manamoji-slack/master/emojis/mana-wu.png
+  - name: mana-x
+    src: https://raw.githubusercontent.com/scryfall/manamoji-slack/master/emojis/mana-x.png
+  - name: mana-y
+    src: https://raw.githubusercontent.com/scryfall/manamoji-slack/master/emojis/mana-y.png
+  - name: mana-z
+    src: https://raw.githubusercontent.com/scryfall/manamoji-slack/master/emojis/mana-z.png
