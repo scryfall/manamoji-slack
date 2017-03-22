@@ -19,11 +19,11 @@ These symbols are designed for use with [Scryfall’s Slack bot](https://scryfal
 You may quickly upload all Manamojis to Slack using [emojipacks](https://github.com/lambtron/emojipacks) for Node. 
 
 1. Follow the emojipacks [install instructions](https://github.com/lambtron/emojipacks#install).
-2. Run the `emojipacks` command and follow the subsequent propmts for Slack login credentials.
+2. Run the `emojipacks` command and follow the subsequent prompts for Slack login credentials.
 3. When asked for `Path or URL of Emoji yaml file`, provide the following URL:
 
 ```
-https://raw.githubusercontent.com/scryfall/master/yaml-importer/emojipack.yaml
+https://raw.githubusercontent.com/scryfall/manamoji-slack/master/emojipack.yaml
 ```
 
 That's it!
